@@ -16,3 +16,8 @@ code {
   width: 2px;
 }
 
+::-webkit-scrollbar-thumb{
+  background: black;
+
+}
+
