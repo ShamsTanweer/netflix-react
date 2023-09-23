@@ -13,6 +13,6 @@ code {
 }
 
 ::-webkit-scrollbar{
-  width: 0.2rem;
+  width: 2px;
 }
 
