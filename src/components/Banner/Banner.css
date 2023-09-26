@@ -55,6 +55,6 @@
 
 @media only screen and (max-width: 420px) {
   .banner__description {
-    display: hidden;
+    visibility: hidden;
   }
 }
