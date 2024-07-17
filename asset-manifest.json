@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//shamstanweer.github.io/netflix-react/static/css/main.7bd36d8d.css",
+    "main.js": "//shamstanweer.github.io/netflix-react/static/js/main.733a2c3d.js",
+    "index.html": "//shamstanweer.github.io/netflix-react/index.html",
+    "main.7bd36d8d.css.map": "//shamstanweer.github.io/netflix-react/static/css/main.7bd36d8d.css.map",
+    "main.733a2c3d.js.map": "//shamstanweer.github.io/netflix-react/static/js/main.733a2c3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bd36d8d.css",
+    "static/js/main.733a2c3d.js"
+  ]
+}
